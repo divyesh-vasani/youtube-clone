@@ -1,0 +1,19 @@
+[
+  { "id": 1, "title": "All" },
+  { "id": 2, "title": "music" },
+  { "id": 3, "title": "thrillers" },
+  { "id": 4, "title": "news" },
+  { "id": 5, "title": "gaming" },
+  { "id": 6, "title": "Indian Premier League" },
+  { "id": 7, "title": "game shows" },
+  { "id": 8, "title": "Civil Services Exams" },
+  { "id": 9, "title": "tarak mehta ka ulta chasma" },
+  { "id": 10, "title": "gadgets" },
+  { "id": 11, "title": "bollywood" },
+  { "id": 12, "title": "movies" },
+  { "id": 13, "title": "New" },
+  { "id": 14, "title": "crime petrol" },
+  { "id": 15, "title": "comedy" },
+  { "id": 16, "title": "cars" },
+  { "id": 17, "title": "anime" }
+]
